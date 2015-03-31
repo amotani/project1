@@ -1,5 +1,5 @@
 #Project 1
 
-*Date:
+*Date: Today
 *Name: Akash
-*Stuff:
+*Stuff: Yolo
